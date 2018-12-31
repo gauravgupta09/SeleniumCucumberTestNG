@@ -9,7 +9,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 
-public class test {
+public class login {
     public static WebDriver driver;
     
     @Given("^user is  on homepage$")
